@@ -32,7 +32,7 @@ information it needs to work correctly.
 
 Everybody has already been given an account with a default password.
 In order to start this assignment, go to 
-[https://www.vc-computerscience.club](https://www.vc-computerscience.club){:target="_blank"}. There you should be greeted
+[http://www.vc-computerscience.club:8080](http://www.vc-computerscience.club:8080){:target="_blank"}. There you should be greeted
 by a login similar to the following screenshot:
 
 ![Image of login screen](login.png)
@@ -52,7 +52,7 @@ change your password from the default. You will need to create accounts for GitH
 already have one) and for Slack. Directions for creating those services are given below. Please 
 follow them to get the user IDs need for LazyGrader.
 
-Go to the user page and click edit. Fill in your GitHub username and Slack username. Also, change
+Go to the user page, by clicking Students in the header navbar, and click edit. Fill in your GitHub username and Slack username. Also, change
 your password and confirm this change by entering it twice as directed on the screen. This page
 should look similar to the following screenshot:
 
